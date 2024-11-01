@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.themeshound-wrap {
+	padding-top: 20px;
+	text-align: center;
+}
+
+.themeshound-wrap form {
+	padding-top: 20px;
+}
